@@ -1,0 +1,3 @@
+- Branchen & Gewerke (branchen_&_gewerke): branche_name[string/text], branche_beschreibung[string/textarea]
+- Betriebsvergleich-Daten (betriebsvergleich_daten): titel[string/text], branche_gewerk[applookup/select], jahr[number], herausgeber[string/text], anzahl_teilnehmer[number], umsatzrentabilitaet[number], materialintensitaet[number], personalintensitaet[number], wertschoepfung_pro_mitarbeiter[number], kalk_unternehmerlohn[number], pdf_datei[file]
+  → branche_gewerk links to app_id 69d7ea9e2953be1e997442da
